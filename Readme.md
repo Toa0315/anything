@@ -1,5 +1,6 @@
 This is a website where you can login, register, and logout. 
 To run this website please download the requirements.txt and also start your xxamp and make your database. 
+no virtual environment are needed.
 After running the program it should look like this:
 
 ![Screenshot 2025-02-16 233142](https://github.com/user-attachments/assets/935bfcce-fabe-4369-b5cf-c251b3dc3664)
